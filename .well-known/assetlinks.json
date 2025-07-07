@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tymeapp",
+      "sha256_cert_fingerprints": [
+        "91F22AFB9B88B974DF047284B354A897618CBBD9AC1C01906E54B0CC02085F16"
+      ]
+    }
+  }
+]
